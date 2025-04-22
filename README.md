@@ -47,9 +47,3 @@ The dataset used includes physiological features (e.g., ECG, EDA, EMG) and their
 
 
 
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/meherkarthik03/emotion-classification-ai.git
-cd emotion-classification-ai
